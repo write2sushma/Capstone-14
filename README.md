@@ -7,10 +7,7 @@ Capstone project by Team 14 for "Python Bootcamp Data Analysis for Beginners" as
 
 * Pandas
 * Matplotlib
-
-_Optional_
-* _Seaborn_
-* _NumPy_
+* Seaborn
 
 ## Capstone Task ##
 
@@ -31,3 +28,13 @@ _Optional_
 The World Happiness Report is a landmark survey of the state of global happiness that ranks 156 countries by how happy their citizens perceive themselves to be.
 
 The World Happiness Report was written by a group of independent experts acting in their personal capacities. Any views expressed in this report do not necessarily reflect the views of any organization, agency or program of the United Nations.
+
+
+## Questions
+
+1. Which are the most happy countries in the world
+2. Which are the least happy countries in the world
+3. What is the most significant factor associated with happiness
+4. Top 10 countries for each criteria
+5. Correlation coefficients between factors (e.g., how is happiness related to life expectancy)
+
